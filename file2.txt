@@ -1,2 +1,6 @@
 archivo 2
+<<<<<<< HEAD
 modificacion 3
+=======
+modificacion 2
+>>>>>>> branch1
